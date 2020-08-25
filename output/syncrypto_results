@@ -1,0 +1,62 @@
+========== ENCRYPTION ==========
+Start synchronizing between encrypted folder '/Users/bvalean/WORK/test-encryption/Default_Project_encrypted' and plaintext folder '/Users/bvalean/TVB/PROJECTS/Default_Project'
+Encrypt 1/Connectivity_6b28b6c61836452bb52cbd18538a7775.h5 to c4/10
+Encrypt 1/ZIPConnectivityImporterModel_edc9d48edcd6452493d8cae85965ff5c.h5 to c4/fa
+Encrypt 2/Surface_10467c4fd4874186afa6d9b1fd8383d8.h5 to c8/a8
+Encrypt 2/Surface_3716aab9d3664d20ab510549ea418e3a.h5 to c8/66
+Encrypt 2/Surface_6f246663030d4dd3affaad9df6d47c53.h5 to c8/2c
+Encrypt 2/Surface_713b0dfd95804e779339f6c06ba0aada.h5 to c8/46
+Encrypt 2/Surface_a6cca09cbca646af95f286a222d119bf.h5 to c8/1f
+Encrypt 2/Surface_ebe790e783ba497ea6ee2a8053842618.h5 to c8/87
+Encrypt 2/ZIPSurfaceImporterModel_cbe7798938fe43bc9cda3433f75c3a40.h5 to c8/96
+Encrypt 3/SensorsImporterModel_a9209473003d4665921da2397e57ee6b.h5 to ec/ee
+Encrypt 3/Sensors_1a4ee47c7d964493a33852c32a09cec1.h5 to ec/f3
+Encrypt 3/Sensors_568ffb7358f84a0eb4e9ea3ff9a4568b.h5 to ec/17
+Encrypt 3/Sensors_7b6b6060dde04990b1f79698fe2681c8.h5 to ec/d5
+Encrypt 4/BRCOImporterModel_54a1a92e382f4d56a0857d24b9b33f56.h5 to a8/70
+Encrypt 4/ConnectivityAnnotations_9134ec2cf5bd4456b889b2e1ba692184.h5 to a8/7d
+Encrypt 5/RegionMappingImporterModel_59e0b7a3a2a344f6a4fceb1d29109323.h5 to e4/88
+Encrypt 5/RegionMapping_30eb223d205b4f728e95c76068c06f92.h5 to e4/ae
+Encrypt 6/ProjectionMatrixImporterModel_9b296b6de29947bcaa0e43775a1bb6d4.h5 to 16/45
+Encrypt 6/ProjectionMatrix_42c105f356c245498db8df991886c48a.h5 to 16/1f
+Encrypt 6/ProjectionMatrix_5f4883d4096a4a86ae65d48058883450.h5 to 16/9d
+Encrypt 6/ProjectionMatrix_6e6dcd8a09bf473d8659479f8fa67663.h5 to 16/06
+Encrypt 7/LocalConnectivity_3e551cbd47ca11e49f213c075431bf56.h5 to 8f/b8
+Encrypt 7/TVBImporterModel_1967bdeca7854e33ab51ee7e9526038b.h5 to 8f/36
+Encrypt Project.xml to 49
+Encrypt .syncrypto/rules to _syncrypto/rules
+Finish synchronizing between encrypted folder '/Users/bvalean/WORK/test-encryption/Default_Project_encrypted' and plaintext folder '/Users/bvalean/TVB/PROJECTS/Default_Project'
+========== FINISH ENCRYPTION ==========
+
+========== DECRYPTION ==========
+Start synchronizing between encrypted folder '/Users/bvalean/WORK/test-encryption/Default_Project_encrypted' and plaintext folder '/Users/bvalean/WORK/test-encryption/Default_Project_decrypted'
+Decrypt c4/10 to 1/Connectivity_6b28b6c61836452bb52cbd18538a7775.h5
+Decrypt c4/fa to 1/ZIPConnectivityImporterModel_edc9d48edcd6452493d8cae85965ff5c.h5
+Decrypt c8/a8 to 2/Surface_10467c4fd4874186afa6d9b1fd8383d8.h5
+Decrypt c8/66 to 2/Surface_3716aab9d3664d20ab510549ea418e3a.h5
+Decrypt c8/2c to 2/Surface_6f246663030d4dd3affaad9df6d47c53.h5
+Decrypt c8/46 to 2/Surface_713b0dfd95804e779339f6c06ba0aada.h5
+Decrypt c8/1f to 2/Surface_a6cca09cbca646af95f286a222d119bf.h5
+Decrypt c8/87 to 2/Surface_ebe790e783ba497ea6ee2a8053842618.h5
+Decrypt c8/96 to 2/ZIPSurfaceImporterModel_cbe7798938fe43bc9cda3433f75c3a40.h5
+Decrypt ec/ee to 3/SensorsImporterModel_a9209473003d4665921da2397e57ee6b.h5
+Decrypt ec/f3 to 3/Sensors_1a4ee47c7d964493a33852c32a09cec1.h5
+Decrypt ec/17 to 3/Sensors_568ffb7358f84a0eb4e9ea3ff9a4568b.h5
+Decrypt ec/d5 to 3/Sensors_7b6b6060dde04990b1f79698fe2681c8.h5
+Decrypt a8/70 to 4/BRCOImporterModel_54a1a92e382f4d56a0857d24b9b33f56.h5
+Decrypt a8/7d to 4/ConnectivityAnnotations_9134ec2cf5bd4456b889b2e1ba692184.h5
+Decrypt e4/88 to 5/RegionMappingImporterModel_59e0b7a3a2a344f6a4fceb1d29109323.h5
+Decrypt e4/ae to 5/RegionMapping_30eb223d205b4f728e95c76068c06f92.h5
+Decrypt 16/45 to 6/ProjectionMatrixImporterModel_9b296b6de29947bcaa0e43775a1bb6d4.h5
+Decrypt 16/1f to 6/ProjectionMatrix_42c105f356c245498db8df991886c48a.h5
+Decrypt 16/9d to 6/ProjectionMatrix_5f4883d4096a4a86ae65d48058883450.h5
+Decrypt 16/06 to 6/ProjectionMatrix_6e6dcd8a09bf473d8659479f8fa67663.h5
+Decrypt 8f/b8 to 7/LocalConnectivity_3e551cbd47ca11e49f213c075431bf56.h5
+Decrypt 8f/36 to 7/TVBImporterModel_1967bdeca7854e33ab51ee7e9526038b.h5
+Decrypt 49 to Project.xml
+Finish synchronizing between encrypted folder '/Users/bvalean/WORK/test-encryption/Default_Project_encrypted' and plaintext folder '/Users/bvalean/WORK/test-encryption/Default_Project_decrypted'
+========== FINISH DECRYPTION ==========
+
+========== RESULTS ==========
+Ecrypted: 0.6407599449157715 seconds
+Decrypted: 0.4544179439544678 seconds
